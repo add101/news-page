@@ -76,7 +76,7 @@ export function Footer() {
             ©2024 Lumenai Investments LLC. All rights reserved.
           </div>
           
-          <div className="flex items-center justify-center gap-4 py-4">
+          <div className="flex flex-1 items-center justify-center gap-4 py-8">
             <a>
              <img src="/images/x.svg" alt="Logo" className="w-5 hover:scale-[1.1] cursor-pointer" /> 
             </a>
