@@ -1,4 +1,3 @@
-import styles from "./card.css";
 
 const Card = () => {
     return (
