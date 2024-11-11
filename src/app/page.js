@@ -39,7 +39,7 @@ export function Header() {
 
 export function Main() {
   return (
-    <main className="m-16 mt-8 px-4 md:px-4 ">
+    <main className="mx-6 sm:m-16 mt-8 px-4 md:px-4 ">
       <div className="mb-8 text-[#528CD3] font-bold text-xs tracking-wider cursor-pointer">
         <a>&lt;&nbsp; BACK</a>
       </div>
