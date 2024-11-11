@@ -1,6 +1,6 @@
 export default function SearchInput({ label }) {
     return (
-      <div className="w-96 relative">
+      <div className="w-auto relative">
         <input
           type="text"
           placeholder={label.toUpperCase()} 

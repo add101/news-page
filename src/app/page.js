@@ -53,7 +53,7 @@ export function Main() {
         <Card />        
       </div>
       <div className="flex justify-center">
-        <div className="inline-flex items-center mt-16 border border-[#528CD3] rounded-full text-[#528CD3] hover:bg-gray-200  cursor-pointer">
+        <div className="inline-flex items-center mt-16 mb-10 sm:mb-2 border border-[#528CD3] rounded-full text-[#528CD3] hover:bg-gray-200  cursor-pointer">
           <span className="text-sm font-semibold  px-6 py-3 tracking-wider">LOAD MORE</span>
           <img src="/images/arrow-down.svg" alt="Down Arrow" className="w-12 h-12 ml-2"/>
         </div>
@@ -68,11 +68,11 @@ export function Main() {
 export function Footer() {
   return (
     <footer className="bg-[#000052] text-[#9999BA] text-center text-sm">
-      <div className="px-16 py-8 border-b border-[#9999BA]">
+      <div className="px-8 sm:px-16 py-8 border-b border-[#9999BA]">
 
-        <div className="flex justify-between items-center ">
+        <div className="flex flex-col sm:flex-row justify-between items-center ">
 
-          <div className="text-sm text-left my-auto flex-1">
+          <div className="text-sm text-left my-auto flex-1 text-center">
             ©2024 Lumenai Investments LLC. All rights reserved.
           </div>
           
@@ -95,7 +95,7 @@ export function Footer() {
 
       </div>
 
-      <div  className="px-16 py-8">
+      <div  className="px-8 sm:px-16 py-8">
         <div className="flex flex-col items-center">
         <img src="/images/Logo.svg" alt="Logo" className="w-22 h-auto" />
           <p className="text-center text-sm leading-relaxed py-4">
