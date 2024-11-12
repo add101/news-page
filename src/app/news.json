@@ -1,0 +1,57 @@
+{
+    "newsCardData": [
+        {
+            "id": "1",
+            "newsImage": "/images/1-WealthManagement.png",
+            "newsDate": "4 June 2024",
+            "newsHeading": "Wealth Management 2030. Successful RIAs of The Future.",
+            "newsText": "Want to know the secrets to competing and growing as an RIA in 2030?...",
+            "newsLink": ""
+        },
+        {
+            "id": "2",
+            "newsImage": "/images/2_AIFintech100.png",
+            "newsDate": "18 June 2024",
+            "newsHeading": "Second year in a row! #AIFinTech100",
+            "newsText": "Lumenai is named to FinTech Global’s AIFinTech 100 list for the second consecutive year....",
+            "newsLink": ""
+        },
+        {
+            "id": "3",
+            "newsImage": "/images/3_CaseStudy.png",
+            "newsDate": "2 November 2024",
+            "newsHeading": "CASE STUDY: Using AI to Generate Income From Options",
+            "newsText": "Text 3...",
+            "newsLink": ""
+        },
+        {
+            "id": "4",
+            "newsImage": "/images/4_GideonStrategic.png",
+            "newsDate": "2 July 2024",
+            "newsHeading": "Gideon Strategic Partners engages Lumenai",
+            "newsText": "Gideon Strategic Partners, a premier wealth management firm, has engaged Lumenai to manage quantitative AI-dri...",
+            "newsLink": ""
+        },
+        {
+            "id": "5",
+            "newsImage": "/images/5_OpalFamily.png",
+            "newsDate": "28 June 2024",
+            "newsHeading": "Opal Family Office & Private Wealth Management Forum 2024",
+            "newsText": "July 22-24, 2024: Artificial Intelligence: What Does the Future Hold for A.I. and Quantum Computing?...",
+            "newsLink": ""
+        },
+        {
+            "id": "6",
+            "newsImage": "/images/6_HuperCustom.png",
+            "newsDate": "17 May 2023",
+            "newsHeading": "Designing a Hyper-Custom \"Low Volatility\" Strategy with AI",
+            "newsText": "Building portfolios that adhere to specific investor goals and risk criteria can be arduous and time-consuming...",
+            "newsLink": ""
+        }
+
+    ]
+}
+
+
+
+ 
